@@ -36,7 +36,7 @@ def mailcontact(
     sterren
     ):
 
-    receiver = ['kvandenbrande@gmail.com','ldvandenbrande@gmail.com']
+    receiver = ['xxx@gmail.com','xxx@gmail.com']
     
     # Create message container - the correct MIME type is multipart/alternative.
     subject = 'Uw Euromillions geluksnummers'  
